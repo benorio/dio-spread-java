@@ -6,5 +6,5 @@
 </h1>
 
 <h3 align="center">
-  Encontra-se aqui os desafios realizados no bootcamp.
+  Encontram-se aqui os desafios realizados no bootcamp.
 </h3>
