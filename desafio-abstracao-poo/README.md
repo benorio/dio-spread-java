@@ -1,5 +1,5 @@
 
-![Logo of the project](http://logo_link)
+![Spread Java Developer](https://hermes.digitalinnovation.one/tracks/70ffd759-aefd-4d9e-82f4-e9424f085e83.png)
  
 ## Desafio-abstração-em-POO
  
