@@ -1,6 +1,6 @@
 package controledefluxo;
 
-import java.util.Scanner;
+
 
 public class Anotacoes {
 

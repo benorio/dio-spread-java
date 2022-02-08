@@ -24,6 +24,12 @@ public class Teste {
 		 * 		DirecionarPáginaPrincipal
 		 * } esse bloco tem duas linhas de execução
 		*/	
+		
+		char c1 = 'x';
+		int i1 = 10;
+		
+		
+		System.out.println(c1 > i1);
 	}
 
 }
