@@ -1,5 +1,5 @@
 
-<img alt="dio-spread" src="https://hermes.digitalinnovation.one/tracks/70ffd759-aefd-4d9e-82f4-e9424f085e83.png" width="5%" align="left"/>
+<img alt="dio-spread" src="https://hermes.digitalinnovation.one/tracks/70ffd759-aefd-4d9e-82f4-e9424f085e83.png" width="15%" align="left"/>
  
 ## Desafio-abstração-em-POO
  
